@@ -19,31 +19,6 @@
   <li><strong>Interfaz Fácil de Usar:</strong> Una interfaz sencilla para interactuar con las funcionalidades de encriptación y desencriptación.</li>
 </ul>
 
-<h2 style="color: #2196F3;">Requisitos</h2>
-<p>
-  Para ejecutar este proyecto, necesitas tener instalado lo siguiente:
-</p>
-<ul>
-  <li><code>Lenguaje de programación que uses</code> (e.g., Python 3.8+)</li>
-  <li><code>Dependencias adicionales</code> (e.g., librerías específicas como <code>cryptography</code> para Python)</li>
-</ul>
-
-<h2 style="color: #2196F3;">Instalación</h2>
-<ol>
-  <li>Clona este repositorio:
-    <pre><code>git clone https://github.com/tu-usuario/proyecto-encriptacion.git</code></pre>
-  </li>
-  <li>Navega al directorio del proyecto:
-    <pre><code>cd proyecto-encriptacion</code></pre>
-  </li>
-  <li>Instala las dependencias necesarias:
-    <pre><code>pip install -r requirements.txt</code></pre>
-  </li>
-  <li>Ejecuta la aplicación:
-    <pre><code>python main.py</code></pre>
-  </li>
-</ol>
-
 <h2 style="color: #2196F3;">Uso</h2>
 <ol>
   <li><strong>Encriptar Texto:</strong>
@@ -74,10 +49,6 @@
   <li>Abre un Pull Request.</li>
 </ol>
 
-<h2 style="color: #2196F3;">Licencia</h2>
-<p>
-  Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo <a href="LICENSE">LICENSE</a>.
-</p>
 
 <hr>
 <p align="center">
