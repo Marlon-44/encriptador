@@ -1,9 +1,7 @@
 
 <h1 align="center" style="color: #4CAF50;">Proyecto de Encriptación de Texto</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20desarrollo-brightgreen" alt="Estado">
-</p>
+
 
 <p align="center">
   Este repositorio contiene un proyecto desarrollado para encriptar y desencriptar texto. Fue creado por <strong>Marlon Almanza Gordon</strong>, estudiante de Oracle Next Education.
